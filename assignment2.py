@@ -1,5 +1,13 @@
-w1 = "kabeer\t"
-w2= "Ahmed"
-lst = [1,2,3,4,5,"alksjdhfalkösjdhf",.05]
-print(w1+w2)
-print(lst)
+class Animal():
+    def __init__(self):
+        print("animal created")
+    
+class Dog(Animal):
+    def __init__(self):
+        print("dog created")
+        
+
+
+
+animal = Animal()
+dog = Dog()
