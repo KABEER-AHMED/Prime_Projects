@@ -1,7 +1,14 @@
-{
-    "Name" : "KABEER AHMED SHABEER AHMED",
-    "Age"  : 20,
-    "Location" : "Istanbul",
-    "translation" : true
-
-}
+[
+     {
+          "Age": 20,
+          "Location": "Istanbul",
+          "Name": "KABEER AHMED SHABEER AHMED",
+          "translation": true
+     },
+     {
+          "ganfi ": "asldkfasldkf"
+     },
+     {
+          "contact": "234523452345"
+     }
+]
